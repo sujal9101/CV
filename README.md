@@ -1,2 +1,2 @@
 # CV
-CV made with ONLY html
+CV made with html
