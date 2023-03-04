@@ -1,2 +1,2 @@
 # CV
-CV made with html
+My first html project
